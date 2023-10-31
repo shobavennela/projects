@@ -1,0 +1,144 @@
+/* Homepage.css */
+
+.logo{
+  width:100px;
+  height:100px;
+  position:relative;
+  right:600px;
+  position: relative;
+  bottom:50px;
+
+}
+.display-menu{
+  position:relative;
+  right:300px;
+  bottom:100px;
+  padding-bottom: 300px;
+
+}
+.menu{
+  color:black;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: large;
+  font-weight: 700;
+}
+.menu1{
+  color:black;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: large;
+  font-weight: 600;
+  position: relative;
+  left:550px;
+}
+.menu2{
+  color:black;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: large;
+  font-weight: 600;
+  position: relative;
+  left:580px;
+  background-color: #f7944d;
+  border:2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.job{
+  position:relative;
+  top:80px;
+  right:220px;
+  color:#ae581b;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top:0.5rem;
+  text-rendering: optimizelegibility;
+  font-family: inter;
+}
+.your{
+line-height: 67px;
+margin-top: 5.5rem;
+font-weight: 700;
+color:inherit;
+text-rendering: optimizelegibility;
+font-size: 3.62671rem;
+margin-right: 4.5rem;
+}
+.career{
+  position:relative;
+  top:10px;
+  right:220px;
+  color:#252423;
+  font-size: 20px;
+  font-weight: 100;
+  margin-top:0.5rem;
+  text-rendering: optimizelegibility;
+  font-family: inter;
+}
+.image{
+  position: relative;
+  left:650px;
+  bottom:180px;
+ 
+}
+.img{
+  height: 600px;
+  width:650px;
+}
+.body{
+  margin: 0px;
+  padding-top: 50px;
+  background-size: 'cover';
+  background-position: 'center center';
+  background-repeat: 'no-repeat';
+  background-image:linear-gradient(79deg,#db97d3,#f7944d);
+  position: relative;
+  bottom:80px;
+}
+.search-bar{
+  position: relative;
+  bottom:550px;
+  right:37px;
+  text-align: center;
+}
+.search{
+  width:300px;
+  height:60px;
+  border-radius: 10px;
+}
+
+.btn{
+  width:100px;
+  height:40px;
+  border-radius: 10px;
+}
+.mag{
+  position: relative;
+  left:280px;
+}
+.imgs{
+  width:150px;
+  height:150px;
+  border-radius: 50px;
+}
+.marquee{
+  position: relative;
+  top:200px;
+  
+}
+.down{
+  position:relative;
+  bottom:800px;
+  
+}
+.get{
+  text-align: center;
+  line-height: 67px;
+margin-top: 5.5rem;
+font-weight: 700;
+color:inherit;
+text-rendering: optimizelegibility;
+font-size: 3.62671rem;
+margin-right: 4.5rem;
+}
